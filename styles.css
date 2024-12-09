@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+
+h1 {
+  font-family: Arial;
+  color: rgb(49, 0, 128);
+  font-size: 150px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Bokor", system-ui;
+
+  color: rgb(0, 115, 255);
+  font-size: 75px;
+}
+
+p {
+  background-color: black;
+  color: rgb(128, 219, 128);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+
+img {
+  width: 125px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 5px dashed rgb(43, 86, 226);
+  border-radius: 25px;
+}
